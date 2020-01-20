@@ -1,0 +1,11 @@
+print("Enter the 1st number")
+num1=input()
+print(num1)
+num=int(num1)
+print(num)
+
+print("Enter the 2nd number")
+num2=input()
+num22=int(num2)
+print(num22)
+print("Addition of 1st and 2nd number is",(num1+num2))
